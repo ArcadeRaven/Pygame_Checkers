@@ -5,7 +5,7 @@ ROWS, COLS = 8, 8
 SQUARE_SIZE = WIDTH//COLS
 
 # rgb color vals
-VIOLET = (238, 130, 238)
+VIOLET = (71, 10, 12)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 BLUE = (48, 213, 200)
